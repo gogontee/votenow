@@ -32,7 +32,7 @@ const CandidatesPage: React.FC = () => {
     },
     {
       id: '3',
-      name: 'Emily Rodriguez',
+      name: 'Emily Rojers',
       bio: 'Dedicated educator working to improve access to quality education for all children in our community.',
       image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       totalVotes: 11200,
