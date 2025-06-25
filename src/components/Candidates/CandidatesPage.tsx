@@ -24,7 +24,7 @@ const CandidatesPage: React.FC = () => {
     },
     {
       id: '2',
-      name: 'Michael Chen',
+      name: 'Michael Simon',
       bio: 'Tech entrepreneur with a vision for digital transformation and innovation in public services.',
       image: 'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       totalVotes: 12350,
@@ -40,6 +40,22 @@ const CandidatesPage: React.FC = () => {
     },
     {
       id: '4',
+      name: 'Sarah Ella',
+      bio: 'Passionate about community development and environmental sustainability. Bringing fresh ideas to create positive change.',
+      image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      totalVotes: 15420,
+      category: 'Community Leader',
+    },
+    {
+      id: '5',
+      name: 'Sarah John',
+      bio: 'Passionate about community development and environmental sustainability. Bringing fresh ideas to create positive change.',
+      image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      totalVotes: 15420,
+      category: 'Community Leader',
+    },
+    {
+      id: '6',
       name: 'David Thompson',
       bio: 'Healthcare professional committed to improving medical services and accessibility for everyone.',
       image: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
@@ -47,7 +63,7 @@ const CandidatesPage: React.FC = () => {
       category: 'Healthcare',
     },
     {
-      id: '5',
+      id: '7',
       name: 'Felicity Inde',
       bio: 'Small business owner advocating for economic development and support for local entrepreneurs.',
       image: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
@@ -55,7 +71,7 @@ const CandidatesPage: React.FC = () => {
       category: 'Business',
     },
     {
-      id: '6',
+      id: '8',
       name: 'James Wilson',
       bio: 'Environmental scientist focused on sustainable development and climate change solutions.',
       image: 'https://images.pexels.com/photos/1552058/pexels-photo-1552058.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
@@ -63,7 +79,7 @@ const CandidatesPage: React.FC = () => {
       category: 'Environment',
     },
     {
-      id: '7',
+      id: '9',
       name: 'Amanda Foster',
       bio: 'Social worker dedicated to community welfare and support for underprivileged families.',
       image: 'https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
@@ -71,7 +87,7 @@ const CandidatesPage: React.FC = () => {
       category: 'Social Work',
     },
     {
-      id: '8',
+      id: '1',
       name: 'Robert Kim',
       bio: 'Legal professional working to ensure justice and legal support for all community members.',
       image: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
