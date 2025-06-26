@@ -7,7 +7,7 @@ const TopVotersCarousel: React.FC = () => {
   const topVoters = [
     {
       id: '1',
-      name: 'Alex Iwundu',
+      name: 'Alex Iwudu',
       totalVotes: 1250,
       image: 'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
       message: 'Supporting democracy one vote at a time! 🗳️',
