@@ -16,7 +16,7 @@ const CandidatesPage: React.FC = () => {
   const candidates = [
     {
       id: '1',
-      name: 'Sarah Johnson',
+      name: 'Sarah John',
       bio: 'Passionate about community development and environmental sustainability. Bringing fresh ideas to create positive change.',
       image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       totalVotes: 15420,
