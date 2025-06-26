@@ -15,7 +15,7 @@ const TopVotersCarousel: React.FC = () => {
     },
     {
       id: '2',
-      name: 'Jessica Parker',
+      name: 'Jessica Ugwem',
       totalVotes: 980,
       image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
       message: 'Every vote counts! Let your voice be heard! 💪',
